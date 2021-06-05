@@ -1,0 +1,1 @@
+/* I suck at this. First attempt after running through the freecodecamp VSS cert and TOP basics of HTML and CSS. Still not sure I understand what much of this means. Anyhow, the layout is close at least although it could certainly be better. */
